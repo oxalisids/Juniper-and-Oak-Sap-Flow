@@ -7,22 +7,24 @@ The data and code are licensed under Creative Commons Attribution 4.0 Internatio
     
 ### Raw Sap Flow Data 
 
-  2016 sap flow - site A.csv
-  2016 sap flow - site B.csv
-        2016 sap flow - site C.csv
-        2017 sap flow - site D.csv
-        2017 sap flow - site E.csv
-        2017 sap flow - site F.csv
+2016 sap flow - site A.csv  
+2016 sap flow - site B.csv  
+2016 sap flow - site C.csv  
+2017 sap flow - site D.csv  
+2017 sap flow - site E.csv  
+2017 sap flow - site F.csv
         
-    These datasets were collected using Thermal Dissipation Probes (TDP-30 model) and SapIP data loggers from Dynamax, Inc., Houston, TX. 
-    The data have the following columns:
+These datasets were collected using Thermal Dissipation Probes (TDP-30 model) and SapIP data loggers from Dynamax, Inc., Houston, TX. The data have the following columns:
         
-        Date          Date 
-        Time          Time
-        V batt        Voltage of battery powering data logger
-        dVT1 - dVT6   Six channels that contain the temperature differential data from individual trees, in mV. 
+Date = Date  
+Time = Time  
+V batt = Voltage of battery powering data logger  
+dVT1 - dVT6 = Six channels that contain the temperature differential data from individual trees, in mV. 
         
-    Refer to the tree tables to understand which channel corresponds to which tree.
+Refer to the tree tables to understand which channel corresponds to which tree.
 
- 
+### Tree Tables
+
+2016 tree table.csv
+2017 tree table.csv
 
