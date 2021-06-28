@@ -3,3 +3,4 @@ This repository contains the data and code used to arrive at the principal resul
 
 The data and code are licensed under Creative Commons Attribution 4.0 International. For more information, see https://creativecommons.org/licenses/by/4.0/ 
 
+A more detailed README file is contained within the Input.zip folder.
